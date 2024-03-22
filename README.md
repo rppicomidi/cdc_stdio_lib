@@ -19,5 +19,8 @@ As this code is pretty much a copy from the pico-sdk's own source code, the
 Copyright and License belong to Raspberry Pi (Trading) Ltd. All I did was
 hack out the parts that prevent it from working with a regular TinyUSB-based
 application and wrap it in library form. Please obey the terms of the pico-sdk
-license when using this code.
+license in LICENSE.TXT when using this code, and note the all caps "AS IS"
+disclaimer.
 
+None of this implies that Raspberry Pi (Trading) Ltd. is endorsing
+this library.
